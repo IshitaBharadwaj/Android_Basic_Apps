@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="title">Android Developer</string>
+    <string name="name">Ishita Bharadwaj</string>
+    <string name="phno">+91 9988776655</string>
+    <string name="user_id">\@AndroidDev</string>
+    <string name="emailid">ishi.bhar@android.com</string>
+</resources>
